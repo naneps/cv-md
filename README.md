@@ -48,7 +48,8 @@
 
 ---
 
-## Projects
+<details>
+  <summary><strong>Projects</strong></summary>
 
 🚀 **Project Alpha | [GitHub](https://github.com/project-alpha)**
    - Description of the project and your role.
@@ -57,6 +58,8 @@
 ⚙️ **Project Beta | [GitHub](https://github.com/project-beta)**
    - Description of the project and your role.
    - Technologies used: Django, PostgreSQL.
+
+</details>
 
 ---
 
