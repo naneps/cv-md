@@ -13,9 +13,9 @@
 ## Skills
 
 🚀 **Programming Languages:**
-   - JavaScript (Node.js, React) ![JavaScript](path/to/javascript-icon.png)
-   - Python (Django) ![Python](path/to/python-icon.png)
-   - PHP ![PHP](path/to/php-icon.png)
+   - JavaScript (Node.js, React) <img src="https://example.com/images/javascript-icon.png" width="16" height="16">
+   - Python (Django) <img src="https://example.com/images/python-icon.png" width="16" height="16">
+   - PHP <img src="https://example.com/images/php-icon.png" width="16" height="16">
 
 ⚙️ **Technologies:**
    - HTML, CSS, Sass
