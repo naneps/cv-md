@@ -13,8 +13,9 @@
 ## Skills
 
 🚀 **Programming Languages:**
-   - JavaScript (Node.js, React)
-   - Python (Django)
+   - JavaScript (Node.js, React) ![JavaScript](path/to/javascript-icon.png)
+   - Python (Django) ![Python](path/to/python-icon.png)
+   - PHP ![PHP](path/to/php-icon.png)
 
 ⚙️ **Technologies:**
    - HTML, CSS, Sass
@@ -26,6 +27,7 @@
    - Docker
 
 ---
+
 
 ## Education
 
