@@ -14,49 +14,55 @@ Saya adalah pengembang aplikasi mobile dengan pengalaman dalam membangun aplikas
 ## Projects
 
 <details>
-  <summary>Project 1 - Nama Proyek</summary>
+  <summary>YUBI POS</summary>
   
-  ![Project Image](https://via.placeholder.com/400x200) <!-- Ganti URL ini dengan gambar proyek Anda -->
+  ![Project Image](https://github.com/naneps/cv-md/blob/main/assets/yubipos-convensional.png?raw=true)
 
   **Deskripsi:**  
-  Ini adalah deskripsi singkat dari proyek ini. Proyek ini mencakup fitur-fitur seperti X, Y, dan Z.
+  YUBI POS adalah aplikasi Point of Sale (POS) yang dirancang khusus untuk restoran dan kafe. Aplikasi ini menyediakan fitur lengkap yang mencakup manajemen pesanan, inventaris, pelaporan penjualan, dan integrasi pembayaran. Dengan antarmuka yang user-friendly, YUBI POS membantu restoran dan kafe mengelola operasional harian dengan lebih efisien dan tepat waktu. Sistem ini berjalan di perangkat Android dan Desktop, memberikan fleksibilitas kepada pengguna untuk mengakses aplikasi dari berbagai platform.
 
   **Tech Stack:**
   - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
   - ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+  - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
   - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
   
 </details>
 
+
+
 <details>
-  <summary>Project 2 - Nama Proyek</summary>
+  <summary>YUBI POS MART</summary>
   
   ![Project Image](https://via.placeholder.com/400x200) <!-- Ganti URL ini dengan gambar proyek Anda -->
 
   **Deskripsi:**  
-  Ini adalah deskripsi singkat dari proyek ini. Proyek ini mencakup fitur-fitur seperti A, B, dan C.
+  YUBI POS MART adalah aplikasi Point of Sale (POS) yang dirancang khusus untuk kebutuhan operasional minimarket dan toko retail. Aplikasi ini menawarkan fitur-fitur yang mendukung manajemen stok barang, pelacakan penjualan, integrasi sistem kasir, dan laporan keuangan yang terperinci. Dengan antarmuka yang mudah digunakan, YUBI POS MART membantu pemilik toko dalam mengelola operasional sehari-hari dengan lebih efisien dan akurat. Aplikasi ini mendukung platform Android dan Desktop.
 
   **Tech Stack:**
+  - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+  - ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
   - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
   
 </details>
 
+
 <details>
-  <summary>Project 3 - Nama Proyek</summary>
+  <summary>Inventory APP</summary>
   
   ![Project Image](https://via.placeholder.com/400x200) <!-- Ganti URL ini dengan gambar proyek Anda -->
 
   **Deskripsi:**  
-  Ini adalah deskripsi singkat dari proyek ini. Proyek ini mencakup fitur-fitur seperti D, E, dan F.
+  Inventory APP adalah aplikasi yang dirancang untuk membantu petugas dalam mengatur keluar masuknya barang di setiap toko atau stok mart yang tersebar di berbagai cabang. Aplikasi ini menawarkan fitur-fitur seperti pelacakan stok barang secara real-time, pengelolaan data barang masuk dan keluar, serta laporan inventaris yang akurat dan mudah diakses. Dengan Inventory APP, proses manajemen stok menjadi lebih efisien, mengurangi risiko kekurangan atau kelebihan stok, dan memastikan ketersediaan barang di seluruh cabang toko.
 
   **Tech Stack:**
-  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+  - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+  - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+  - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
   
 </details>
+
 
 ---
 
