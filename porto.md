@@ -14,7 +14,7 @@ Saya adalah pengembang aplikasi mobile dengan pengalaman dalam membangun aplikas
 ## Projects
 
 <details>
-  <summary>YUBI POS</summary>
+  <summary>YUBI POS</summary> 
   
   ![Project Image](https://github.com/naneps/cv-md/blob/main/assets/yubipos-convensional.png?raw=true)
 
@@ -51,10 +51,25 @@ Saya adalah pengembang aplikasi mobile dengan pengalaman dalam membangun aplikas
 <details>
   <summary>Inventory APP</summary>
   
-  ![Project Image](https://via.placeholder.com/400x200)
+  ![Project Image](https://github.com/naneps/cv-md/blob/main/assets/ventoryaopp1.png?raw=true)
+  ![Project Image](https://github.com/naneps/cv-md/blob/main/assets/ventoryapp2.png?raw=true)
 
   **Deskripsi:**  
   Inventory APP adalah aplikasi yang dirancang untuk membantu petugas dalam mengatur keluar masuknya barang di setiap toko atau stok mart yang tersebar di berbagai cabang. Aplikasi ini menawarkan fitur-fitur seperti pelacakan stok barang secara real-time, pengelolaan data barang masuk dan keluar, serta laporan inventaris yang akurat dan mudah diakses. Dengan Inventory APP, proses manajemen stok menjadi lebih efisien, mengurangi risiko kekurangan atau kelebihan stok, dan memastikan ketersediaan barang di seluruh cabang toko.
+
+  **Tech Stack:**
+  - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+  - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+  - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
+  
+</details>
+<details>
+  <summary>KIOS-K</summary>
+  
+  ![Project Image](https://via.placeholder.com/400x200) <!-- Ganti URL ini dengan gambar proyek Anda -->
+
+  **Deskripsi:**  
+  KIOS-K adalah aplikasi self-service yang dirancang untuk pemesanan minuman kopi dan non-kopi yang disiapkan oleh robot barista. Aplikasi ini memudahkan pelanggan untuk memesan minuman favorit mereka melalui antarmuka yang intuitif dan modern. KIOS-K terintegrasi langsung dengan robot barista yang akan menyiapkan minuman sesuai pesanan, serta sistem pembayaran digital untuk memproses transaksi secara cepat dan aman. Dengan KIOS-K, pengalaman pemesanan minuman menjadi lebih efisien dan otomatis, meningkatkan kenyamanan dan kepuasan pelanggan.
 
   **Tech Stack:**
   - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
