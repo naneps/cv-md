@@ -62,6 +62,6 @@ Saya adalah pengembang aplikasi mobile dengan pengalaman dalam membangun aplikas
 
 ## Contact
 
-**Email:** your.email@example.com  
-**LinkedIn:** [Nama LinkedIn Anda](https://linkedin.com/in/your-linkedin)  
-**GitHub:** [Nama GitHub Anda](https://github.com/your-github)
+**Email:** ekaprasetya2244@gmail.com  
+**LinkedIn:** [Nandang Eka Prasetya](https://linkedin.com/in/nandang-eka-prasetya)  
+**GitHub:** [nanesp](https://github.com/naneps)
