@@ -1,15 +1,8 @@
-# My Portfolio
+# Portfolio | Nandang Eka Prasetya
 
-![Profile Picture](https://via.placeholder.com/150) <!-- Ganti URL ini dengan foto Anda -->
+## CV dan Informasi Lebih Lanjut
 
-## About Me
-**Nama:** Nama Anda  
-**Pekerjaan:** Mobile Developer  
-**Lokasi:** Kota Anda, Negara Anda
-
-Saya adalah pengembang aplikasi mobile dengan pengalaman dalam membangun aplikasi Android dan iOS menggunakan Flutter. Saya berfokus pada desain UI/UX yang menarik dan implementasi fitur yang sesuai dengan visi klien.
-
----
+Untuk informasi lebih lengkap tentang latar belakang, pengalaman, dan keterampilan saya, silakan kunjungi [CV Saya di GitHub](https://github.com/naneps/cv-md/blob/main/README.md).
 
 ## Projects
 
@@ -66,7 +59,8 @@ Saya adalah pengembang aplikasi mobile dengan pengalaman dalam membangun aplikas
 <details>
   <summary>KIOS-K</summary>
   
-  ![Project Image](https://via.placeholder.com/400x200) <!-- Ganti URL ini dengan gambar proyek Anda -->
+  ![Project Image](https://github.com/naneps/cv-md/blob/main/assets/kiosk1.png?raw=true) 
+  ![Project Image](https://github.com/naneps/cv-md/blob/main/assets/kiosk2.png?raw=true) 
 
   **Deskripsi:**  
   KIOS-K adalah aplikasi self-service yang dirancang untuk pemesanan minuman kopi dan non-kopi yang disiapkan oleh robot barista. Aplikasi ini memudahkan pelanggan untuk memesan minuman favorit mereka melalui antarmuka yang intuitif dan modern. KIOS-K terintegrasi langsung dengan robot barista yang akan menyiapkan minuman sesuai pesanan, serta sistem pembayaran digital untuk memproses transaksi secara cepat dan aman. Dengan KIOS-K, pengalaman pemesanan minuman menjadi lebih efisien dan otomatis, meningkatkan kenyamanan dan kepuasan pelanggan.
@@ -85,4 +79,4 @@ Saya adalah pengembang aplikasi mobile dengan pengalaman dalam membangun aplikas
 
 **Email:** ekaprasetya2244@gmail.com  
 **LinkedIn:** [Nandang Eka Prasetya](https://linkedin.com/in/nandang-eka-prasetya)  
-**GitHub:** [nanesp](https://github.com/naneps)
+**GitHub:** [naneps](https://github.com/naneps)

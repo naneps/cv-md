@@ -89,3 +89,7 @@ SMKN 1 Sindang Indramayu | Jan 2017 - Dec 2020
 
 ---
 
+## Portofolio
+Untuk melihat portofolio lengkap saya, kunjungi [Portofolio Saya di GitHub](https://github.com/naneps/cv-md/blob/main/porto.md).
+
+---
