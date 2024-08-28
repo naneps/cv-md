@@ -34,7 +34,7 @@ Saya adalah pengembang aplikasi mobile dengan pengalaman dalam membangun aplikas
 <details>
   <summary>YUBI POS MART</summary>
   
-  ![Project Image](https://via.placeholder.com/400x200) <!-- Ganti URL ini dengan gambar proyek Anda -->
+  ![Project Image](https://github.com/naneps/cv-md/blob/main/assets/yubipos-mart.png?raw=true)
 
   **Deskripsi:**  
   YUBI POS MART adalah aplikasi Point of Sale (POS) yang dirancang khusus untuk kebutuhan operasional minimarket dan toko retail. Aplikasi ini menawarkan fitur-fitur yang mendukung manajemen stok barang, pelacakan penjualan, integrasi sistem kasir, dan laporan keuangan yang terperinci. Dengan antarmuka yang mudah digunakan, YUBI POS MART membantu pemilik toko dalam mengelola operasional sehari-hari dengan lebih efisien dan akurat. Aplikasi ini mendukung platform Android dan Desktop.
@@ -51,7 +51,7 @@ Saya adalah pengembang aplikasi mobile dengan pengalaman dalam membangun aplikas
 <details>
   <summary>Inventory APP</summary>
   
-  ![Project Image](https://via.placeholder.com/400x200) <!-- Ganti URL ini dengan gambar proyek Anda -->
+  ![Project Image](https://via.placeholder.com/400x200)
 
   **Deskripsi:**  
   Inventory APP adalah aplikasi yang dirancang untuk membantu petugas dalam mengatur keluar masuknya barang di setiap toko atau stok mart yang tersebar di berbagai cabang. Aplikasi ini menawarkan fitur-fitur seperti pelacakan stok barang secara real-time, pengelolaan data barang masuk dan keluar, serta laporan inventaris yang akurat dan mudah diakses. Dengan Inventory APP, proses manajemen stok menjadi lebih efisien, mengurangi risiko kekurangan atau kelebihan stok, dan memastikan ketersediaan barang di seluruh cabang toko.
