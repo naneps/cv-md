@@ -43,37 +43,36 @@ Politeknik Negeri Indramayu | Jan 2020 - Dec 2023
 SMKN 1 Sindang Indramayu | Jan 2017 - Dec 2020
 
 ---
-
 ## ![Experience](https://img.icons8.com/ios-filled/25/000000/briefcase.png) Experience
 
-### ![Mobile Developer](https://img.icons8.com/ios-filled/15/000000/mobile.png) **Mobile Developer**  
+### ![Mobile Developer](https://img.icons8.com/?size=26&id=114191&format=png) **Mobile Developer**  
 **PT ACQ Teknologi Indonesia | Jul 2024 - Present (Part-time)**  
 - Building a startup application connecting AC technicians, shops, and customers.
 - Responsible for developing and maintaining the mobile app.
 - Implemented features to enhance user experience, facilitating easier service bookings.
 
-### ![Mobile Developer](https://img.icons8.com/ios-filled/15/000000/mobile.png) **Mobile Developer**  
+### ![Mobile Developer](https://img.icons8.com/?size=26&id=114191&format=png) **Mobile Developer**  
 **Yubi Technology, North Jakarta, Jakarta, Indonesia | Oct 2023 - Present**  
 - Specializing in the development of POS, self-service, and warehouse management applications.
 - Proficient in leveraging REST APIs for seamless communication.
 - Active contributor to version control and collaboration using Git.
 - Utilizing Flutter to build expressive, natively compiled mobile and desktop applications.
 
-### ![Mobile Developer](https://img.icons8.com/ios-filled/15/000000/mobile.png) **Mobile Developer (Freelance)**  
+### ![Mobile Developer](https://img.icons8.com/?size=26&id=114191&format=png) **Mobile Developer (Freelance)**  
 **Freelance, Remote | Jul 2022 - Present**  
 - Developed mobile apps for Android using Flutter.
 - Delivered solutions aligned with clients' visions and goals.
 - Designed engaging and responsive UIs with a focus on user experience.
 - Integrated data from various sources through APIs.
 
-### ![Frontend Developer](https://img.icons8.com/ios-filled/15/000000/web-design.png) **Frontend Developer**  
+### ![Frontend Developer](https://img.icons8.com/?size=26&id=114191&format=png) **Frontend Developer**  
 **Latena Teknologi Nusantara | Apr 2023 - Jun 2023**  
 - Developed and designed UIs for web applications.
 - Involved in several client website projects using Nuxt.js technology.
 - Collaborated with the backend team to ensure frontend-backend alignment.
 - Integrated data from various sources through APIs.
 
-### ![Frontend Developer](https://img.icons8.com/ios-filled/15/000000/web-design.png) **Frontend Developer**  
+### ![Frontend Developer](https://img.icons8.com/?size=26&id=114191&format=png) **Frontend Developer**  
 **Roketin, Bandung, West Java, Indonesia | Jul 2022 - Dec 2022**  
 - Developed and designed UIs for web applications using Vue.js technology.
 - Collaborated with the backend team to ensure alignment in applications.
@@ -82,7 +81,7 @@ SMKN 1 Sindang Indramayu | Jan 2017 - Dec 2020
 
 ---
 
-## ![Contact](https://img.icons8.com/ios-filled/25/000000/phone.png) Contact
+## ![Contact](https://img.icons8.com/?size=26&id=OxHA5FpUIvf2&format=png) Contact
 - **Email:** ![Email](https://img.icons8.com/ios-filled/15/000000/email-open.png) ekaprasetya2244@gmail.com
 - **Phone:** ![Phone](https://img.icons8.com/ios-filled/15/000000/phone.png) +6281802192111
 - **LinkedIn:** ![LinkedIn](https://img.icons8.com/ios-filled/15/000000/linkedin.png) [linkedin.com/in/nandang-ekaprasetya](https://linkedin.com/in/nandang-ekaprasetya)
