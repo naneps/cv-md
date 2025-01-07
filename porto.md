@@ -119,7 +119,7 @@ Untuk informasi lebih lengkap tentang latar belakang, pengalaman, dan keterampil
   <summary>Counting System</summary> 
   
   ![Project Image](https://github.com/naneps/cv-md/blob/main/assets/cs1.png?raw=true)
-  ![Project Image](https://github.com/naneps/cv-md/blob/main/assets/cs1.png?raw=true)
+  ![Project Image](https://github.com/naneps/cv-md/blob/main/assets/cs2.png?raw=true)
   **Deskripsi:**  
   Counting System adalah aplikasi yang dirancang khusus untuk digunakan di lingkungan pabrik, membantu proses penghitungan barang di setiap jalur produksi. Aplikasi ini mempermudah pemantauan jumlah barang yang lolos kriteria (oke) dan barang yang tidak memenuhi standar (not oke) pada setiap lini produksi. Fitur-fitur utama meliputi:  
   - **Penghitungan Real-Time:** Merekam data barang secara langsung dan akurat di setiap jalur produksi.  
